@@ -18,7 +18,7 @@
 <a href="https://twitter.com/sobhan_maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sobhan_maity" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sobhan maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sobhan maity" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sobhan maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sobhan maity" height="30" width="40" /></a>
-<a href="https://kaggle.com/sobhan maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sobhan maity" height="30" width="40" /></a>
+<a href="https://kaggle.com/sobhanmaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sobhan maity" height="30" width="40" /></a>
 <a href="https://instagram.com/iamsobhanmaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsobhanmaity" height="30" width="40" /></a>
 </p>
 
