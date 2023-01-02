@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/FearfulVengefulJohndory-size_restricted.gif)]
+ [![MasterHead](https://thumbs.gfycat.com/FearfulVengefulJohndory-size_restricted.gif)]
 <h1 align="center">Hi 👋, I'm Sobhan Maity</h1>
 <h3 align="center">An Aspiring Data Scientist and AI/ML Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sobhan_maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sobhan_maity" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sobhan maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sobhan maity" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sobhan-maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sobhan maity" height="30" width="40" /></a>
-<a href="https://kaggle.com/sobhanmaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sobhan maity" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sobhan-maity-4175381b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sobhan-maity-4175381b8" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20490640/sobhan-maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20490640/sobhan-maity" height="30" width="40" /></a>
+<a href="https://kaggle.com/sobhan maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sobhan maity" height="30" width="40" /></a>
 <a href="https://instagram.com/iamsobhanmaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsobhanmaity" height="30" width="40" /></a>
 </p>
 
