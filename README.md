@@ -1,4 +1,4 @@
- [![MasterHead](https://thumbs.gfycat.com/FearfulVengefulJohndory-size_restricted.gif)]
+ ![MasterHead](https://thumbs.gfycat.com/FearfulVengefulJohndory-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Sobhan Maity</h1>
 <h3 align="center">An Aspiring Data Scientist and AI/ML Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
